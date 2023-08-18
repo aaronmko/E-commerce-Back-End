@@ -4,7 +4,7 @@ The challenge is to build the back end for an e-commerce site.
 ## Table Of Content
 * [Description](#description)
 * [Installation](#installation)
-* [Mock up](#mock-up)
+* [Demonstration](#demonstration)
 
 ## Description
 
@@ -29,4 +29,10 @@ To start running application simply input
 ```terminal
 node server.js
 ```
+
+## Demonstration
+
+![Demo of note taker app](./assets/Screenshot.jpg)
+
+* [Full Walkthrough  Video](https://drive.google.com/file/d/1q9SAMviSPAqj7wTL0m1u_nNMDSACc5sd/view)
 
