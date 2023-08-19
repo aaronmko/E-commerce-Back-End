@@ -5,6 +5,7 @@ The challenge is to build the back end for an e-commerce site.
 * [Description](#description)
 * [Installation](#installation)
 * [Demonstration](#demonstration)
+* [Contact](#contact)
 
 ## Description
 
@@ -36,3 +37,8 @@ node server.js
 
 [Full Walkthrough  Video](https://drive.google.com/file/d/1fHEy9jEWpSaNY1GSbyoMoSpyWRkzAIZX/view)
 
+## Contact
+
+If you have any additonal questions or would like to provide any feedback, feel free to reach me at:
+
+[Github](https://github.com/aaronmko)
