@@ -34,5 +34,5 @@ node server.js
 
 ![Demo of note taker app](./assets/Screenshot.jpg)
 
-* [Full Walkthrough  Video](https://drive.google.com/file/d/1q9SAMviSPAqj7wTL0m1u_nNMDSACc5sd/view)
+[Full Walkthrough  Video](https://drive.google.com/file/d/1fHEy9jEWpSaNY1GSbyoMoSpyWRkzAIZX/view)
 
